@@ -1,6 +1,7 @@
 # chat_app
 
-A new Flutter project.
+A Basic ChatApp Flutter project.
+Include group chat and send Image.
 
 ## Getting Started
 
